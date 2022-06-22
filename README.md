@@ -1,6 +1,7 @@
 # DatabaseProject
 
-jdbctemplate을 이용해고 mysql을 연결하여 작업한 학생 관리 프로그램입니다
+jdbctemplate을 이용하였으며, 디비는 mysql과 연동했습니다.
+프로젝트는 학생 관리 프로그램입니다
 
 
 Student information management program
