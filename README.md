@@ -1,6 +1,6 @@
 # DatabaseProject
 
-순수 자바를 이용해서 mysql을 연결하여 작업한 프로젝트 입니다
+jdbctemplate을 이용해고 mysql을 연결하여 작업한 학생 관리 프로그램입니다
 
 
 Student information management program
